@@ -1,6 +1,7 @@
 # Exercises in "Data Analysis Recipes: Fitting a Model to Data"
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/wdconinc/data-analysis-recipes-fitting-a-model-to-data/master)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/wdconinc/data-analysis-recipes-fitting-a-model-to-data)
 
 This notebook works through the exercises in [arXiv:1008.4686v1](https://arxiv.org/abs/1008.4686) [astro-ph.IM] "Data Analysis Recipes: Fitting a Model to Data", by David W. Hogg, Jo Bovy, and Dustin Lang, hereafter the "paper".
 
